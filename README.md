@@ -2,7 +2,7 @@
 This repository contains codes used for my thesis at the Swedish school of library and information science (SSLIS). 
 I used Python 3.8. The codes consists of the following parts: 
 
-# Unpaywall: 
+## Unpaywall: 
 Code used to query the Unpaywall API and obtain OA status (bronze, gold, green, hybrid, non-OA) 
 
 # Altmetric.com
